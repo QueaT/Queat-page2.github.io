@@ -76,7 +76,7 @@ if(perCounter>98)
 {
     clearInterval(liner);
     line.style.width=`${perCounter}%`;
-    this.form.action='../../element2/index.html';
+    this.form.action='https://queat.github.io/QueaT-page1.github.io/';
     this.but.disabled=false;
 }
 else
